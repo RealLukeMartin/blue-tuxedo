@@ -1,3 +1,0 @@
----
-- name: install and start apache
-  hosts: localhost
